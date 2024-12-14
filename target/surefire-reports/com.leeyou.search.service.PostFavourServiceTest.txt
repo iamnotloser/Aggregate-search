@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.leeyou.search.service.PostFavourServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in com.leeyou.search.service.PostFavourServiceTest
+doPostFavour  Time elapsed: 0.004 s  <<< ERROR!
+com.leeyou.search.exception.BusinessException: 请求数据不存在
+	at com.leeyou.search.service.PostFavourServiceTest.doPostFavour(PostFavourServiceTest.java:34)
+

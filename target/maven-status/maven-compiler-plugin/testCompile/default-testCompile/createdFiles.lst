@@ -1,0 +1,9 @@
+com\leeyou\search\service\PostFavourServiceTest.class
+com\leeyou\search\utils\EasyExcelTest.class
+com\leeyou\search\CrawlerTest.class
+com\leeyou\search\MainApplicationTests.class
+com\leeyou\search\service\PostThumbServiceTest.class
+com\leeyou\search\manager\CosManagerTest.class
+com\leeyou\search\service\UserServiceTest.class
+com\leeyou\search\mapper\PostFavourMapperTest.class
+com\leeyou\search\mapper\PostMapperTest.class
