@@ -15,5 +15,15 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="search@localhost" uuid="eec9ad0a-1691-4739-840c-b33b94dc17b8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="my_db@localhost" uuid="da6708c7-93c6-4778-8f1a-001600f84958">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" />
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
   </component>
 </project>

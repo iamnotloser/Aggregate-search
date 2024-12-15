@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5f41805-4edc-4809-ab71-55c428ec5e1b" name="Changes" comment="first init">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/code/search-leeyou/search-leeyou-backend&quot;,
@@ -275,7 +275,8 @@
       <workItem from="1733990912454" duration="99000" />
       <workItem from="1733991018807" duration="574000" />
       <workItem from="1733991601508" duration="52935000" />
-      <workItem from="1734225275303" duration="604000" />
+      <workItem from="1734225275303" duration="2495000" />
+      <workItem from="1734274084193" duration="18000" />
     </task>
     <task id="LOCAL-00001" summary="first init">
       <option name="closed" value="true" />
