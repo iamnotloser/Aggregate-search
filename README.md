@@ -1,4 +1,5 @@
-# SpringBoot 项目初始模板
+# Aggregate-search
+聚合搜索网站，可以通过一个请求返回不同类型的数据,后端代码
 
 > 作者：[程序员鱼皮](https://github.com/liyupi)
 > 仅分享于 [编程导航知识星球](https://yupi.icu)
