@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5f41805-4edc-4809-ab71-55c428ec5e1b" name="Changes" comment="first init" />
+    <list default="true" id="d5f41805-4edc-4809-ab71-55c428ec5e1b" name="Changes" comment="first init">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +34,12 @@
     &quot;assignee&quot;: &quot;iamnotloser&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:iamnotloser/Aggregate-search.git",
-    "accountId": "ff20bf20-ca2e-4b35-96cc-6d0c225f40d4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:iamnotloser/Aggregate-search.git&quot;,
+    &quot;accountId&quot;: &quot;ff20bf20-ca2e-4b35-96cc-6d0c225f40d4&quot;
   }
-}]]></component>
+}</component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -63,46 +65,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SimpleCanalClientExample.executor": "Run",
-    "JUnit.CrawlerTest.testFetchPassage.executor": "Run",
-    "JUnit.CrawlerTest.testFetchPicture.executor": "Run",
-    "JUnit.PostEsDaoTest.testAdd.executor": "Run",
-    "JUnit.PostEsDaoTest.testDeleteById.executor": "Run",
-    "JUnit.PostEsDaoTest.testFindByTitle.executor": "Run",
-    "JUnit.PostEsDaoTest.testSelect.executor": "Run",
-    "Maven.search-leeyou-backend [clean].executor": "Run",
-    "Maven.search-leeyou-backend [install].executor": "Run",
-    "Maven.search-leeyou-backend [package].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "Spring Boot.MainApplication.executor": "Debug",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code/search-leeyou/search-leeyou-backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SimpleCanalClientExample.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrawlerTest.testFetchPassage.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CrawlerTest.testFetchPicture.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostEsDaoTest.testAdd.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostEsDaoTest.testDeleteById.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostEsDaoTest.testFindByTitle.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PostEsDaoTest.testSelect.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.search-leeyou-backend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.search-leeyou-backend [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.search-leeyou-backend [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MainApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/search-leeyou/search-leeyou-backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -273,6 +275,7 @@
       <workItem from="1733990912454" duration="99000" />
       <workItem from="1733991018807" duration="574000" />
       <workItem from="1733991601508" duration="52935000" />
+      <workItem from="1734225275303" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="first init">
       <option name="closed" value="true" />
